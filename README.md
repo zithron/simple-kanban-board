@@ -1,4 +1,4 @@
-# frontend-vue
+# simple-kanban-board
 
 ## Project setup
 ```
